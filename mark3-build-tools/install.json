@@ -1,0 +1,21 @@
+{
+  "steps":[
+
+    "Verify",
+
+    "Extract",
+
+    "Install SDK",
+
+    "Install Kotlin",
+
+    "Install JDK",
+
+    "Install BundleTool",
+
+    "Verify Installation",
+
+    "Ready"
+
+  ]
+}
