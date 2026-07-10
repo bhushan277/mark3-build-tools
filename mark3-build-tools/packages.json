@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "packages": [
+    {
+      "id": "cmdline-tools",
+      "version": "20.0"
+    },
+    {
+      "id": "platform-tools",
+      "version": "37.0.0"
+    },
+    {
+      "id": "android-platform",
+      "version": "35"
+    },
+    {
+      "id": "build-tools",
+      "version": "35.0.0"
+    },
+    {
+      "id": "kotlin",
+      "version": "2.4.0"
+    },
+    {
+      "id": "bundletool",
+      "version": "1.18.3"
+    },
+    {
+      "id": "jdk",
+      "version": "17"
+    }
+  ]
+}
