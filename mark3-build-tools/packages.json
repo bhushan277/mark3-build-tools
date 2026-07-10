@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": "1.0.0",
   "packages": [
     {
       "id": "cmdline-tools",
@@ -10,11 +10,11 @@
       "version": "37.0.0"
     },
     {
-      "id": "android-platform",
+      "id": "platforms/android-35",
       "version": "35"
     },
     {
-      "id": "build-tools",
+      "id": "build-tools/35.0.0",
       "version": "35.0.0"
     },
     {
@@ -26,7 +26,7 @@
       "version": "1.18.3"
     },
     {
-      "id": "jdk",
+      "id": "jdk17",
       "version": "17"
     }
   ]
