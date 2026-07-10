@@ -1,21 +1,18 @@
 {
-  "steps":[
-
+  "version": "1.0.0",
+  "sdk": "android-35",
+  "buildTools": "35.0.0",
+  "jdk": "17",
+  "kotlin": "2.4.0",
+  "bundletool": "1.18.3",
+  "steps": [
     "Verify",
-
     "Extract",
-
     "Install SDK",
-
     "Install Kotlin",
-
     "Install JDK",
-
     "Install BundleTool",
-
     "Verify Installation",
-
     "Ready"
-
   ]
 }
